@@ -1,0 +1,7 @@
+{
+    "name": "NoAgeGate",
+    "description": "Bypasses iOS NSFW/age gate for 18+ servers and channels",
+    "authors": [{ "name": "you", "id": "your_discord_id_here" }],
+    "main": "index.js",
+    "hash": ""
+}
